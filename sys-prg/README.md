@@ -5,8 +5,8 @@
 ### 0. Дополнительная информация о Git и GitHub
 
 - [скринкаст](https://youtu.be/53f5vkI_gnM) о создании репозитория (и личного сайта) с использованием сервиса GitHub Pages;
-- введение в использование GitHub [guides.github.com/activities/hello-world](https://guides.github.com/activities/hello-world/) (по ссылке также есть видеоинструкции);
-- обучение использованию Git и GitHub [product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
+- введение в использование GitHub: [guides.github.com/activities/hello-world](https://guides.github.com/activities/hello-world/) (по ссылке также есть видеоинструкции);
+- обучение использованию Git и GitHub: [product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners).
 
 ------
 
