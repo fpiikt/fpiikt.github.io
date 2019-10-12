@@ -1,5 +1,5 @@
 
-## Добро пожаловать на страницу дисциплин факультета программной инженерии и компьютерной техники (ФПИиКТ)
+## Добро пожаловать на страницу ФПИиКТ
 
 You can use the [editor on GitHub](https://github.com/fpiikt/fpiikt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
