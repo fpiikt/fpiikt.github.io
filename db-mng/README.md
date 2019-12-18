@@ -20,6 +20,11 @@
 ### Практическое задание 2
 
 1. Реализовать функционал, предложенный в практическом задании 1 с использованием СУБД SQLite. Изучите справочные материалы: 
-   1. 
-2. Проанализировать репозиторий https://hub.docker.com/ и найти образы для наиболее популярных серверных SQL и noSQL баз данных (например, MySQL или Maria DB, PostgresSQL, Mongo).
-3. 
+   - https://docs.python.org/3/library/sqlite3.html —официальная стандартная библиотека Python для взаимодействия с SQLite.
+   - https://python-scripts.com/sqlite — пример работы с СУБД SQLite.
+   - https://ru.wikibooks.org/wiki/SQLAlchemy — альтернативный (модулю ```sqlite```) способ работы с СУБД; SQLAlchemy позволяет реализовать ORM (удобный механизм, позволяющий описывать структуры баз данных и способы взаимодействия с ними прямо в синтаксисе языка программирования, не используя запросы языка БД).
+2. Используя репозиторий https://hub.docker.com, найти образы для наиболее популярных серверных SQL и noSQL систем управленя базами данных (например, MySQL или MariaDB, PostgresSQL, MongoDB).
+3. Выбрать одну какую-либо СУБД и переписать фрагмент приложения из практического задания 1 с использованием этой СУБД. Изучите соответствующие справочные материалы: 
+   - MongoDB: [начало работы с СУБД](https://docs.mongodb.com/manual/tutorial/getting-started/) (базовые команды), [работа с СУБД на Python](https://docs.mongodb.com/ecosystem/drivers/pymongo/).
+   - MariaDB: [работа с СУБД на Python](https://mariadb.com/resources/blog/how-to-connect-python-programs-to-mariadb/).
+   - PostgresSQL: [работа с СУБД на Python](https://lectureswww.readthedocs.io/6.www.sync/2.codding/9.databases/1.postgres.html), возможно [использовать SQLAlchemy](https://docs.sqlalchemy.org/en/13/dialects/postgresql.html).
